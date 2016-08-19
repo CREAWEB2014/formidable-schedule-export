@@ -1,0 +1,19 @@
+{
+  "name": "formidable-schedule-export",
+  "version": "1.0.0",
+  "description": "=== Plugin Name === Contributors: (this should be a list of wordpress.org userid's) Donate link: http://example.com/ Tags: comments, spam Requires at least: 3.0.1 Tested up to: 4.5 Stable tag: 4.5 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dccmarketing/formidable-schedule-export.git"
+  },
+  "author": "dcc-marketing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dccmarketing/formidable-schedule-export/issues"
+  },
+  "homepage": "https://github.com/dccmarketing/formidable-schedule-export#readme"
+}
